@@ -6,7 +6,7 @@
    - This is <strong>bolded text</strong>.
    - This is <em>emphasized text</em>.
 3. Save it in your code editor.
-4. Open your Github Desktop app.
+4. To submit your work, open your Github Desktop app.
 5. Review and Commit the changes to the gh-pages branch.
 6. Push your work to the shared repo on Github.
    - **NOTE**: You may need to "Fetch" changes, since others will be submitting their files. Desktop should prompt you to do so, if needed.
