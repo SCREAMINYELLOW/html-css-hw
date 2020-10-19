@@ -1,7 +1,8 @@
 # hw1-commit-push-practice
 
-1. Using your code editor, add your own MarkDown (.md) file with your lastname as the filename in all lowercase.
+1. Using your code editor, add your own MarkDown (.md) file. Use your lastname as the filename in all **lowercase**.
    - Mine would be named 'lindgren.md'.
+   - **NOTE**: We use all lowercase in this coding assignment, since HTML, CSS, and their accompnaying filenaming schemes rarely ever use uppercase and glottic capitalizatioon schemes. Consider how difficult it would be to remember all the different ways people on your team capitalize filenames and code keywords and names. Not fun!
 2. Markup some simple content with some simple `HTML`. (HTML also works in markdown files.)
    - This is <strong>bolded text</strong>.
    - This is <em>emphasized text</em>.
